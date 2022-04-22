@@ -22,7 +22,10 @@ Listed below are the comand(s) required to install the necessary dependencies.
                         
 ## Usage
                         
-Log in to mysql by typing mysql -u root -p and entering your password, then source db/schema.sql, type quit to exit the mysql terminal and type npm run seed to seed data stored in the seeds folder, finally, type npm start to launch the local server.           
+Log in to mysql by typing mysql -u root -p and entering your password, then source db/schema.sql, type quit to exit the mysql terminal and type npm run seed to seed data stored in the seeds folder, finally, type npm start to launch the local server.  
+
+## Video Demo
+https://drive.google.com/file/d/1tzlKkLlzuY3vJ2t8ADSQhfI20FpgBgyA/view
                         
 ## Features
                         
