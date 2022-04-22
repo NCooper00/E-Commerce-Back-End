@@ -11,8 +11,6 @@ It is an application that allows a user to organize their products for an e-comm
 Listed below are shortcuts to different parts of the README.
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
-- [Tests](#tests)
 - [License](#liscense)
 - [Features](#features)
 - [Questions](#questions)
